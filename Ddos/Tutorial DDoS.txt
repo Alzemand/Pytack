@@ -1,0 +1,26 @@
+Sites para atacar em grupo
+
+http://www.receita.fazenda.gov.br/
+
+**********DDOS GRUPO   SCRYPTTOR*************************************
+1- Downlo na descrição do video
+2- instale o python como um progama normal
+
+
+Agora:  Segue os comandos  a baixo
+
+Abra o cmd :
+
+cd desktop
+cd scrypttor.0
+scrypttorddos.py
+scrypttorddos.py -t IPDOALVO -r 500
+
+Obs: o  Scrypttorddos  foi progamado para derrubar qualquer site..
+
+Tabela de atack do  Scrypttorddos
+
+Sites : Pequenos   1 pessoa Obtera resultados
+SItes : Razuaveis  1 pessoa Obtera resultados
+Sites : Boms       5 a 7 pessoas Obtera resultados
+Sites : Famosos e Grandes    20 pessoas  obtera Exelente resultados.
